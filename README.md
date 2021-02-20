@@ -4,6 +4,8 @@ This device type handler (DTH) is created for Zipato's in-wall micromodule motor
 
 **TLDR: SWITCH NO1 AND NC1 wires to see if that fixes the issue first**
 
+Please see the code here: https://github.com/h8pewou/SmartThingsPublic/tree/master/devicetypes/h8pewou/zipato-shutter.src
+
 <hr />
 
 # SmartThings Public GitHub Repo
